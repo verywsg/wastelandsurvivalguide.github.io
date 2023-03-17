@@ -83,6 +83,8 @@ Main Files:
 
 A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches. Players will also get to explore multiple locations around the island with interesting backstories and meet plenty of different personalities that are sure to leave an impression that lasts.
 
+#### Installation:
+
 Main File - Washington's Malevolence TTW
 
 ## Player Homes
@@ -174,6 +176,8 @@ with the resident merchant.
 
 A large-scale upgrade for the Sink to turn it into a fully functional player home suitable
 as your main base even after completing the Old World Blues DLC.
+
+#### Installation:
 
 - Main File - MAIN FILE: for TTW v3.3.2 or higher
 - Optional File - Compatibility patch for SawyerBatty TTW
@@ -272,6 +276,8 @@ bOwnJerichosHouse=1
 
 Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DLC and weapons
 added by other mods. Contains a patch for TTW & WSG.
+
+#### Installation:
 
 - Main File - Dynamic Weapon Displays
   - In the FOMOD installer select: &emsp;
